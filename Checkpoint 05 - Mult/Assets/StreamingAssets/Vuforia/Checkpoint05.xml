@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Pericles" size="664.000000 462.000000" />
-    <ImageTarget name="IAmTheDanger" size="480.000000 640.000000" />
+    <ImageTarget name="DrillingIsWrong" size="480.000000 480.000000" />
     <ImageTarget name="Guita" size="420.000000 420.000000" />
+    <ImageTarget name="Pericles" size="664.000000 462.000000" />
   </Tracking>
 </QCARConfig>
